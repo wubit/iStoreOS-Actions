@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="768" src="https://cdn.jsdelivr.net/gh/haiibo/OpenWrt/images/openwrt.png"/>
+  <img width="768" src="./files/screenshot/istoreos.png"/>
   <h1>基于imagebuilder与ophub打包工具的iStoreOS固件</h1>
 
   <img src="https://img.shields.io/github/downloads/Kwonelee/iStoreOS-Actions/total.svg?style=for-the-badge&color=32C955"/>
