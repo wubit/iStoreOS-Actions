@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       openwrt_board:
-        description: "请选择设备型号"
+        description: "1、请选择设备型号"
         required: true
         default: "s905d_s905x3_s912_s922x-ct2000"
         type: choice
@@ -175,7 +175,7 @@ on:
           - zk-r39a
           - zysj
       openwrt_kernel:
-        description: "请选择内核版本"
+        description: "2、请选择内核版本"
         required: true
         default: "6.6.y"
         type: choice
