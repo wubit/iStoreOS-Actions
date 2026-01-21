@@ -20,6 +20,7 @@ on:
           - bdy-g18-pro
           - beikeyun
           - chainedbox
+          - cm3588-nas
           - crrc
           - dc-a588
           - dg3399
@@ -49,14 +50,17 @@ on:
           - lckfb-tspi
           - leez
           - lx-r3s
+          - lz-k3568
           - mrkaio-m68s
           - nanopc-t6
+          - nanopi-m5
           - nanopi-r5c
           - nanopi-r5s
           - nsy-g16-plus
           - nsy-g68-plus
           - orangepi-5-plus
           - orangepi-5b
+          - orangepi-zero3
           - panther-x2
           - photonicat
           - r66s
@@ -159,6 +163,7 @@ on:
           - sv-33a6x
           - swan1-w28
           - sw799
+          - taram
           - tanix-tx6
           - tb-ls3399
           - tn3399
