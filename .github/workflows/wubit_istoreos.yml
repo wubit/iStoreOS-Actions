@@ -1,4 +1,4 @@
-name: 💿 StX_Build-iStoreOS-src
+name: 💿 wubit_istoreos
 on:
   repository_dispatch:
   workflow_dispatch:
